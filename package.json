@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chromedriver": "^93.0.0",
+    "chromedriver": "^119.0.1",
     "selenium-webdriver": "^4.0.0-alpha.7"
   }
 }
